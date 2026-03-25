@@ -1,0 +1,7 @@
+1 Python 
+2 Pandas
+3 NumPy
+4 Matplotlib / Seaborn
+5 Scikit-learn
+6 Seaborn
+7 Scipy
