@@ -35,7 +35,6 @@ The goal of this project is to demonstrate practical understanding of core machi
 * NumPy
 * Matplotlib / Seaborn
 * Scikit-learn
-* Seaborn
 * Scipy
 
 ---
