@@ -6,3 +6,4 @@
 6 Seaborn
 7 Scipy
 8 joblib
+9 streamlit
